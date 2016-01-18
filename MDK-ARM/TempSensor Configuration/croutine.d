@@ -1,0 +1,15 @@
+tempsensor configuration\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+tempsensor configuration\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+tempsensor configuration\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+tempsensor configuration\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+tempsensor configuration\croutine.o: ../Inc/FreeRTOSConfig.h
+tempsensor configuration\croutine.o: ../Inc/mxconstants.h
+tempsensor configuration\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+tempsensor configuration\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+tempsensor configuration\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+tempsensor configuration\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+tempsensor configuration\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+tempsensor configuration\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+tempsensor configuration\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+tempsensor configuration\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+tempsensor configuration\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

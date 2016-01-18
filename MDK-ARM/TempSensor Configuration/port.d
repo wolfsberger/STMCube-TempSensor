@@ -1,0 +1,13 @@
+tempsensor configuration\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/port.c
+tempsensor configuration\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+tempsensor configuration\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+tempsensor configuration\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+tempsensor configuration\port.o: ../Inc/FreeRTOSConfig.h
+tempsensor configuration\port.o: ../Inc/mxconstants.h
+tempsensor configuration\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+tempsensor configuration\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+tempsensor configuration\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+tempsensor configuration\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+tempsensor configuration\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+tempsensor configuration\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+tempsensor configuration\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
